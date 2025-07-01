@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Dave and my usual one-liner is: **Family man, big geek, awesome beard**.
+My name is Dave and my one-liner is: **Family man, big geek, big beard**.
 
-I'll fill this out 'til I can get started on something else:
-
-- 🔭 I’m currently working on a site redesign for [dropcase.com](http://www.dropcase.com/) in Gatsby. Wait no, Hugo. Wait no, Eleventy!
-- 🌱 I’m currently learning Eleventy along with a bunch of work-related stuff (I work for [Twilio](https://github.com/twilio))
+- 🧠 PKM fan, using [Obsidian.md](https://obsidian.md/) for my digital brain work
+- 👯 I sometimes contribute to Obsidian plugins, working on one of my own currently
+- 🔭 I’m eventually working on a site redesign for [dropcase.com](http://www.dropcase.com/) in Gatsby. Wait no, Hugo. Wait no, Eleventy!
+- 💻 I work for [Twilio](https://github.com/twilio)
 - 📫 How to reach me: dave [at] dropcase [dot] com
 - 😄 Pronouns: he/him
 
